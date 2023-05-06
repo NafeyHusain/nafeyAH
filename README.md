@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nafeyAH
+- 👋 Hi, I’m @NafeyAH
 - 👀 I’m interested to build and secure
 - 🌱 I’m currently learning aws ,AI ML 
 - 📫 How to reach me :nafeyahthenx@gmail.com
